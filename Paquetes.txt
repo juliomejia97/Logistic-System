@@ -1,0 +1,5 @@
+cedulaRemitente,cedulaDestinatario,peso,tipoContenido,numGuia
+3789856342,3456673356,2000,prenda de vestir,RTY657
+3456673356,3789856342,5000,calefactor electrico,OPQ456
+30367825533,1023443453,6536,Prenda de vestir,JYF387
+
